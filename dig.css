@@ -1,0 +1,39 @@
+* {
+	margin: 0;
+	padding: 0;
+	color: #eee;
+	text-align: center;
+	height: 100px;
+}
+
+html, body {
+	height: 100%;
+}
+
+#hexClock {
+	position: relative;
+	height: 200px;
+	top: 45%;
+	margin-top: -50px;
+	text-align: center;
+}
+
+#time {
+	font-size: 300px;
+	font-family: monospace;
+	text-align: center;
+}
+
+#hexColor {
+	margin-top: 200px;
+	font-family: fantasy;
+	text-align: center;
+}
+
+h1 {
+	font-family: fantasy;
+	font-size: 120px;
+	font-family: monospace;
+	text-align: center;
+	color: v;
+}
